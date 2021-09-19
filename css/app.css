@@ -1,0 +1,55 @@
+/* h1 {
+    color: blue;
+} */
+
+body {
+    /* background-color: black; */
+    /* text-transform: uppercase; */
+}
+
+.english {
+    color: blueviolet;
+}
+
+.arabic {
+    color: chocolate;
+    /* text-transform: uppercase; */
+}
+
+#first {
+    text-transform: capitalize;
+}
+
+
+
+.paragraph-m-p {
+    /* margin-top: 50px; */
+    /* margin-left: 15px; */
+    /* margin: 50px; */
+    /* margin: 50px 14px 25px 30px; */
+    margin: 50px 35px;
+    border: 1px solid black;
+    padding: 25px;
+}
+
+/* flex  */
+/* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+
+#i1 {
+    background-color: red;
+}
+
+#i2 {
+    background-color: blue;
+}
+
+#i3 {
+    background-color: yellow;
+}
+
+#i1,
+#i2,
+#i3 {
+    height: 50px;
+    width: 50px;
+}
